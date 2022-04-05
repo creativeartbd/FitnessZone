@@ -1,0 +1,88 @@
+= Fitness Zone WordPress Theme Changelog =
+
+2022.03.02 - version 5.0
+
+* Fixed Kirki Customizer Issue
+
+2021.01.28 - version 4.9
+
+* Lightbox script update
+
+2021.01.25 - version 4.8
+
+* Compatible with wordpress 5.6
+* Some design issues updated
+* Updated: All premium plugins
+
+2020.11.27 - version 4.7
+
+* Latest jQuery fixes updated
+* Updated: All premium plugins
+
+2020.10.23 - version 4.6
+
+* Woocommerce header cart issue
+* Dark skin issue
+* Coming soon page enabled - sticky menu issue
+* RTL Languages compatible
+* Change currency Symbol option added
+
+2020.09.10 - version 4.5
+
+* Compatible with wordpress 5.5.1
+* Workouts taxonomy page added
+* Updated: Coming soon enabled sticky menu issue
+* Updated: Notice errors
+* Updated: Fatal error on other theme activation
+* Updated: Dashboard notice errors
+* Updated: All premium plugins including timetable plugin
+* Updated: Gallery type 9 icon issue
+* Updated: Package item shortcode date issue
+* Updated: Outdated copies of some WooCommerce template files
+
+2020.08.13 - version 4.4
+
+* Compatible with wordpress 5.5
+
+2020.07.28 - version 4.3
+
+* Updated: Envato Theme check
+* Updated: sanitize_text_field added
+* Updated: All wordpress theme standards
+* Updated: All premium plugins
+
+2020.02.06 - version 4.2
+
+* Updated : All premium plugins
+
+2020.01.28 – version 4.1
+
+* Compatible with wordpress 5.3.2
+* Updated: All premium plugins
+* Updated: All wordpress theme standards
+* Updated: Privacy and Cookies concept
+* Updated: Gutenberg editor support for custom post types
+
+* Fixed: Google Analytics issue
+* Fixed: Mailchimp email client issue
+* Fixed: Privacy Button Issue
+* Fixed: Gutenberg check for old wordpress version
+
+* Improved: Tags taxonomy added for portfolio
+* Improved: Single product breadcrumb section
+* Improved: Revisions options added for all custom posts
+
+2019.11.28 – version 4.0
+
+* Compatible with wordpress 5.3
+* Compatible with gutenberg editor
+* Major update of Fitness Zone theme.
+* All the demo contents updated to Visual Composer modules
+* Reservation removed from themes files and added as a separate plugin.
+* Compatible with wordpress 5.0.3
+* Themes options with codestar framework.
+* Customizer options with Kirki plugin.
+* Gutenberg compatible.
+* Updated documentation.
+* Clients please do not upload the new version Fitness Zone theme or plugin files to your existing fitnesszone old version, since the site will crash. If you need to continue with your old version, we have provided the old version fitnesszone-old.zip(2.4) separately please use those files. If you need to go with the new visual composer version, you need to install it in a fresh site.
+* Please follow this KB steps for installing the new 3.0 version http://support.wedesignthemes.com/knowledge-base/steps-to-install-new-themes-version/
